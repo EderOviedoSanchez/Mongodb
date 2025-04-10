@@ -11,7 +11,7 @@ const pokemonSchema = new Schema({
     view:{
         type: Boolean,
         default: true
-    }
+    },
     catch:{
         type: Boolean,
         default: false
